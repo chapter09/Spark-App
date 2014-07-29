@@ -1,0 +1,15 @@
+[0m[[0minfo[0m] [0mPackaging /home/wanghao/Documents/Scala/SimpleApp/target/scala-2.10/simple-project_2.10-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	ca[0m
+[0m[[0mdebug[0m] [0m	  /home/wanghao/Documents/Scala/SimpleApp/target/scala-2.10/classes/ca[0m
+[0m[[0mdebug[0m] [0m	ca/haow/www/SimpleApp$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/wanghao/Documents/Scala/SimpleApp/target/scala-2.10/classes/ca/haow/www/SimpleApp$.class[0m
+[0m[[0mdebug[0m] [0m	ca/haow/www/SimpleApp$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/wanghao/Documents/Scala/SimpleApp/target/scala-2.10/classes/ca/haow/www/SimpleApp$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	ca/haow/www/SimpleApp.class[0m
+[0m[[0mdebug[0m] [0m	  /home/wanghao/Documents/Scala/SimpleApp/target/scala-2.10/classes/ca/haow/www/SimpleApp.class[0m
+[0m[[0mdebug[0m] [0m	ca/haow[0m
+[0m[[0mdebug[0m] [0m	  /home/wanghao/Documents/Scala/SimpleApp/target/scala-2.10/classes/ca/haow[0m
+[0m[[0mdebug[0m] [0m	ca/haow/www[0m
+[0m[[0mdebug[0m] [0m	  /home/wanghao/Documents/Scala/SimpleApp/target/scala-2.10/classes/ca/haow/www[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
